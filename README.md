@@ -6,7 +6,7 @@ My business card as an Apple Wallet pass.
 
 Open the following link on an device that supports Apple Wallet (iOS or macOS):
 
-- [https://pass.grahamzemel.com](https://githubredirect.com)
+- [https://grahamzemel.com/pass](https://github.com/grahamzemel/AppleWalletBusinessCard/raw/main/grahamzemel.pkpass)
 
 📷 Alternatively, use the camera app on your device to scan the QR code:
 
