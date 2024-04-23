@@ -1,0 +1,7 @@
+*.pkpass
+*.xccheckout
+*.xcscmblueprint
+.DS_Store
+bin
+build/
+xcuserdata
